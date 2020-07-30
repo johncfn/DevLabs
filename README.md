@@ -9,7 +9,7 @@ Foi escolhido realizar o projeto na linguagem PHP e banco de dados MySQL.
  # Estrutura:
 Existe 5 arquivos que realizam as ações:
 * create.php: Adiciona usuários, email, senha e mansagens no banco de dados;
-*addMensagem.php: adiciona uma nova mensagem para algum usuário;
+* addMensagem.php: adiciona uma nova mensagem para algum usuário;
 * delete.php: deleta um usuário no banco de dados;
 * list.php: lista os usuários que estão cadastrados no banco de dados;
 * update.php: atualiza um usuário no banco de dados.
