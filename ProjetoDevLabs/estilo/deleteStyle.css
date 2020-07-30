@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: 0;
+}
+
+body h3{
+	font-weight: 300;
+	font-size: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	padding-bottom: 35px;
+}
+
+
+
+form input[type=submit]{	
+	width: 20%;
+	height: 30px;
+	margin-top: 10px;
+	color: black;
+	cursor: pointer;
+	font-size: 22px;
+	
+	display: block;
+    margin: auto;
+}
+
+form select{
+	text-align-last: center;
+	width: 20%;
+	height: 25px;
+	margin-top: 10px;	
+	
+	
+	display: block;
+    margin: auto;
+}
